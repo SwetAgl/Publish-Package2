@@ -1,3 +1,3 @@
-{
-  "your": "json config here"
-}
+"publishConfig": {
+   "PACKAGE-REGISTRY.pkg.github.com": "https://npm.pkg.github.com"
+ }
