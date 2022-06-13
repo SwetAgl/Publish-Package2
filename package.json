@@ -1,5 +1,5 @@
 {
-  "name": "npm-scripts-example",
+  "name": "Publish-Package2",
   "version": "1.0.0",
   "description": "An example of how to use npm scripts over a build tool like Grunt or Gulp",
   "main": "index.js",
